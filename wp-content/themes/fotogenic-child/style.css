@@ -11,3 +11,35 @@ Text Domain: Fotogenic-child
 .post{
 	display:none;
 }
+.menu-toggle > #text{
+    display:none;
+}
+
+#masthead{
+    position:absolute;
+}
+a.hero_image_btn:hover{
+    border:none;
+}
+
+@media(max-width: 979px){
+ #masthead.menu-toggle{
+        display: none;
+        
+    }
+}
+.cart-empty{
+    background:none;
+    border:none;
+    background-color:#ecf0f1;
+}
+.site-info{
+    display:none;
+}
+.masonry_item{
+ text-align: center;
+}
+
+table.shop_table,thead,tbody,tfoot{
+    border:none;
+}

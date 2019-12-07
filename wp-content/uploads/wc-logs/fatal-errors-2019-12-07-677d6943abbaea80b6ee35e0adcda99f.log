@@ -1,0 +1,14 @@
+2019-12-07T20:40:24+00:00 CRITICAL Call to undefined function get_title() in C:\xampp\htdocs\wordpress\wp-content\plugins\boo\boo.php on line 65
+
+2019-12-07T20:40:45+00:00 CRITICAL Call to undefined function get_name() in C:\xampp\htdocs\wordpress\wp-content\plugins\boo\boo.php on line 65
+
+2019-12-07T20:40:46+00:00 CRITICAL Call to undefined function get_name() in C:\xampp\htdocs\wordpress\wp-content\plugins\boo\boo.php on line 65
+
+2019-12-07T20:40:48+00:00 CRITICAL Call to undefined function get_name() in C:\xampp\htdocs\wordpress\wp-content\plugins\boo\boo.php on line 65
+
+2019-12-07T20:41:56+00:00 CRITICAL Call to a member function get_name() on string in C:\xampp\htdocs\wordpress\wp-content\plugins\boo\boo.php on line 65
+
+2019-12-07T20:42:35+00:00 CRITICAL Call to a member function get_name() on boolean in C:\xampp\htdocs\wordpress\wp-content\plugins\boo\boo.php on line 66
+
+2019-12-07T20:42:36+00:00 CRITICAL Call to a member function get_name() on boolean in C:\xampp\htdocs\wordpress\wp-content\plugins\boo\boo.php on line 66
+
